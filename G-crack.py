@@ -18,7 +18,7 @@ print('''
 
 By: Liam Wood
 Github: https://github.com/Shutdown-exe
-Instagram: https://www.instagram.com/malware.255/                
+               
              
 This was made for EDUCATIONAL PURPOSES ONLY don't do anything ILLEGAL!!!!!
 
